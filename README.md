@@ -7,7 +7,7 @@ Python Version: 3.4
 
 Original Date: 6/10/2016
 
-Last Revision: 6/16/2016
+Last Revision: 9/1/2016
 
 Purpose:  This program is intended to run on a Linux system running 'EverQuest' under 'Wine'.
           It is dependent upon the 'xdotool' application being installed in order to spoof the
