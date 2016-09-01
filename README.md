@@ -1,7 +1,7 @@
 # EQMBox_CCC 
 The EverQuest Emulator Multi-Box Command and Control Client
 
-Author: Ronny Bull
+Author: Ronny Bull - a.k.a (Cubber)
 
 Python Version: 3.4
 
