@@ -1,8 +1,12 @@
 # EQMBox_CCC 
 The EverQuest Emulator Multi-Box Command and Control Client
-Author: Ronny Bull (A.K.A. Cubber)
+
+Author: Ronny Bull
+
 Python Version: 3.4
+
 Original Date: 6/10/2016
+
 Last Revision: 6/16/2016
 
 Purpose:  This program is intended to run on a Linux system running 'EverQuest' under 'Wine'.
