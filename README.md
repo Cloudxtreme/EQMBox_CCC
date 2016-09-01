@@ -1,7 +1,7 @@
 # EQMBox_CCC 
 The EverQuest Emulator Multi-Box Command and Control Client
 
-Author: Ronny Bull - a.k.a (Cubber on eqemulator.org)
+Original Author: Ronny Bull - (A.K.A. Cubber on eqemulator.org)
 
 Python Version: 3.4
 
@@ -34,4 +34,4 @@ A. The short answer is no.  This application depends on having the game window i
 
 Q. Can this be used on the Live EverQuest servers?
 
-A. While this code 'potentially' could be used to control 'Boxed' characters on a Live EverQuest server we do not encourage nor endorse it, and the maintainers of this project will in no way be held responsible for the actions of anyone who attempts it.  This was developed as a creative academic exercise to introduce students to parsing log files with python and producing actions based upon specific events.  This code is developed and tested on 'Private' EQEmulator servers hosted by the developers.  
+A. While this code 'potentially' could be used to control 'Boxed' characters on a Live EverQuest server we do not encourage nor endorse it, and the maintainers of this project will in no way be held responsible for the actions of anyone who attempts it.  This was developed as a creative academic demonstration to introduce students to parsing log files with python and producing actions based upon specific events.  This code is developed and tested on 'Private' EQEmulator servers hosted by the developers.  

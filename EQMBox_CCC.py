@@ -2,7 +2,7 @@
 
 # Program Name: EQMBox_CCC.py 
 #               'The EverQuest Multi-Box Command and Control Client'
-# Author: Ronny Bull (A.K.A. Cubber)
+# Original Author: Ronny Bull (A.K.A. Cubber on eqemulator.org)
 # Python Version: 3.4
 # Original Date: 6/10/2016
 # Last Revision: 6/16/2016
