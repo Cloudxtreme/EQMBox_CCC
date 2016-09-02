@@ -106,6 +106,8 @@ LOGPATH = "Logs/eqlog_%s_%s.txt" % (BOXCHAR, SERVER)
 LOGFILE = EQHOME+LOGPATH
 DepCheck.verifyLogFile(BOXCHAR, LOGFILE)
 
+print("Press Ctrl+C to exit\n")
+
 # get game window focus
 # NOTE: This gets a bit funky where there are other windows with the string "EverQuest" in thier title
 # so lets change the window name to something a bit more unique
